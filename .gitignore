@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# VS Code settings
+.vscode
+
+# Object folder
+build/*
+
+# Binary folder
+bin/*
